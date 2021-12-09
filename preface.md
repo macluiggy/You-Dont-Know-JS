@@ -83,4 +83,4 @@ These books are meant to be a field-guide on your wanderings through JavaScript,
 
 I'm so glad you're embarking on this journey, and I am so honored you would consider and consult these books along the way. It's time to start *getting to know JS*.
 
-[Next](https://github.com/getify/You-Dont-Know-JS/edit/2nd-ed/preface.md)
+[Next](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md)
